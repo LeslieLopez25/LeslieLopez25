@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leslie
-- 👀 I’m interested and learning Full Stack Development and Graphic Design among so many other subjects in the tech web development department
+- 👀 I’m learning to become a Web Developer and learning Graphic Design among so many other subjects in the tech web development department
 - 🌱 I’m currently learning Web Developer from a Udemy course that this a web developer bootcamp.
 
 <!---
