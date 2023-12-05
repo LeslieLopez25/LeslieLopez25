@@ -9,10 +9,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeslieLopez25&theme=holi&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://git.io/streak-stats">
-<img height=200 align="center" src="https://streak-stats.demolab.com/?user=LeslieLopez25&theme=holi-theme" />
-</a>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LeslieLopez25&theme=holi-theme)](https://git.io/streak-stats)
 
 [![Lelise Lopez's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeslieLopez25&theme=react-dark)](https://github.com/LeslieLopez25/github-readme-activity-graph)
