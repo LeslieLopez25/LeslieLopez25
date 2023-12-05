@@ -6,7 +6,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeslieLopez25&theme=holi" />
 </a>
 <a href="https://github.com/LeslieLopez25/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeslieLopez25&theme=holi&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" margin-bottom="10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeslieLopez25&theme=holi&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a href="https://git.io/streak-stats">
