@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Web Developer from an Udemy course that this a web developer bootcamp.
 
 - Technologies:
- <i class="fi fi-brands-linkedin"></i>
+  ![image](https://github.com/LeslieLopez25/LeslieLopez25/assets/46363173/c656fc8f-e5d0-45ba-abc7-25a9e5621e58)
+
 
 
 
