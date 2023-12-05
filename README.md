@@ -2,6 +2,13 @@
 - 👀 I’m learning to become a Web Developer and learning Graphic Design among so many other subjects in the tech web development department
 - 🌱 I’m currently learning Web Developer from an Udemy course that this a web developer bootcamp.
 
+<a href="https://github.com/LeslieLopez25/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeslieLopez25&theme=holi" />
+</a>
+<a href="https://github.com/LeslieLopez25/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeslieLopez25&theme=holi&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeslieLopez25&theme=holi&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeslieLopez25&theme=holi)
