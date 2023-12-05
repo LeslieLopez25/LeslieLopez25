@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Leslie
 - 👀 I’m learning to become a Web Developer and learning Graphic Design among so many other subjects in the tech web development department
-- 🌱 I’m currently learning Web Developer from a Udemy course that this a web developer bootcamp.
+- 🌱 I’m currently learning Web Developer from a Udemy course that this a web developer bootcamp.041E42
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeslieLopez25&show_icons=true&theme=holi&title_color=0892d0&text_color=ffffff&bg_color=041E42&locale=en&layout=compact&theme=holi&hide_border=true" alt="LeslieLopez25" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeslieLopez25&show_icons=true&theme=holi&title_color=0892d0&text_color=ffffff&bg_color=0C2340&locale=en&layout=compact&theme=holi&hide_border=true" alt="LeslieLopez25" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeslieLopez25&theme=holi)
 
