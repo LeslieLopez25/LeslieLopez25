@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://git.io/streak-stats">
-<img align=""center src="https://streak-stats.demolab.com/?user=LeslieLopez25&theme=holi-theme" />
+<img align="center" src="https://streak-stats.demolab.com/?user=LeslieLopez25&theme=holi-theme" />
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LeslieLopez25&theme=holi-theme)](https://git.io/streak-stats)
