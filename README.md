@@ -4,7 +4,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeslieLopez25&theme=radical)
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=LeslieLopez25&repo=dev.to)](https://github.com/thepracticedev/dev.to)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
 
 <!---
 LeslieLopez25/LeslieLopez25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
