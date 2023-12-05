@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Developer from an Udemy course that this a web developer bootcamp.
 
 - Technologies:
-- ![image](https://github.com/LeslieLopez25/LeslieLopez25/assets/46363173/9a7612dc-2396-46dc-81c6-3ef085b55eb7)
+- ![image height=200 width=200](https://github.com/LeslieLopez25/LeslieLopez25/assets/46363173/9a7612dc-2396-46dc-81c6-3ef085b55eb7)
 
 
 
