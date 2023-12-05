@@ -2,6 +2,10 @@
 - 👀 I’m learning to become a Web Developer and learning Graphic Design among so many other subjects in the tech web development department
 - 🌱 I’m currently learning Web Developer from an Udemy course that this a web developer bootcamp.
 
+- Technologies:
+- ![image](https://github.com/LeslieLopez25/LeslieLopez25/assets/46363173/e1177619-ca7c-4bf6-b5fa-87992188ac54)
+
+
 <a href="https://github.com/LeslieLopez25/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeslieLopez25&theme=holi" />
 </a>
