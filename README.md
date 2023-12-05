@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Developer from an Udemy course that this a web developer bootcamp.
 
 - Technologies:
-
+https://icons8.com/icon/108784/javascript
 
 
 
