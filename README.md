@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Leslie
-- 👀 I’m learning to become a Web Developer and learning Graphic Design among so many other subjects in the tech web development department
-- 🌱 I’m currently learning Web Developer from an Udemy course that this a web developer bootcamp.
+Hi, my name is Leslie.
+______________________
 
 - Technologies:
 
