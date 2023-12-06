@@ -8,7 +8,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,react,css,tailwind,bootstrap,firebase,git,vscode" />
+    https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sass-icon.png
   </a>
 </p>
 
