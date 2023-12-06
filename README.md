@@ -2,14 +2,21 @@
 
 <h2>React Front-End Developer</h2>
 
-<h3></h3>
+<h3>I'm a passionate React front-end developer. Embarking on a journey to leave a lasting impact in the dynamic tech landscape, I find my greatest joy in the art of coding and project creation, specializing in React. Committed to continuous learning, I'm honing my skills to become a full-stack React developer. Believing in the power of persistence, curiosity, and hard work, I am poised to reach new heights in the ever-evolving world of technology.</h3>
 
 ### Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,css,tailwind,bootstrap,firebase,git,vscode" />
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sass-icon.png" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=js,react,css,tailwind,bootstrap,sass,firebase,git,vscode,ai,ps" />
+  </a>
+</p>
+
+### Currently Learning
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs,postgres,redux,threejs,ts," />
   </a>
 </p>
 
