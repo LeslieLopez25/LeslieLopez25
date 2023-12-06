@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,css,tailwind,bootstrap,firebase,git,vscode" />
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sass-icon.png" width="36" height="36" />
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sass-icon.png" width="50" height="50" />
   </a>
 </p>
 
