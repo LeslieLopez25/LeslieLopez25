@@ -1,13 +1,13 @@
 <h1>Hi, my name is Leslie.</h1
 
 <h2>React Front-End Developer</h2>
-------------------
+
 <h3></h3>
 
 ### Skills
 
 <p align="left">
-  ![image width="36" height="36"](https://github.com/LeslieLopez25/LeslieLopez25/assets/46363173/4e8af371-78bd-45c6-be7a-59e8e899f0d8)
+  ![image](https://github.com/LeslieLopez25/LeslieLopez25/assets/46363173/4e8af371-78bd-45c6-be7a-59e8e899f0d8 width="36" height="36")
 
 </p>
 
