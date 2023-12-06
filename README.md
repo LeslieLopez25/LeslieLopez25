@@ -7,8 +7,7 @@
 ### Skills
 
 <p align="left">
-  ![image](https://github.com/LeslieLopez25/LeslieLopez25/assets/46363173/4e8af371-78bd-45c6-be7a-59e8e899f0d8)
-
+[![My Skills](https://skills.thijs.gg/icons?i=js,css,react,tailwind,bootstrap,firebase,git,vscode&theme=dark)](https://skills.thijs.gg)
 </p>
 
 <a href="https://github.com/LeslieLopez25/github-readme-stats">
