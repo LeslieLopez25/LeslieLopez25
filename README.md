@@ -6,8 +6,10 @@
 
 ### Skills
 
-<p align="left">
-[![My Skills](https://skills.thijs.gg/icons?i=js,css,react,tailwind,bootstrap,firebase,git,vscode)](https://skills.thijs.gg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
 
 <a href="https://github.com/LeslieLopez25/github-readme-stats">
