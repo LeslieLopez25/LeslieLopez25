@@ -7,7 +7,7 @@
 ### Skills
 
 <p align="left">
-  ![image](https://github.com/LeslieLopez25/LeslieLopez25/assets/46363173/4e8af371-78bd-45c6-be7a-59e8e899f0d8 width="36" height="36")
+  ![image](https://github.com/LeslieLopez25/LeslieLopez25/assets/46363173/4e8af371-78bd-45c6-be7a-59e8e899f0d8)
 
 </p>
 
