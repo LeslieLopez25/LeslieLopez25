@@ -15,7 +15,8 @@
 ### Skills
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,css,tailwind,bootstrap,sass,firebase,git,vscode,ai,ps," /><img margin-left="0" width="50px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/indesign-icon.png" />
+    <img src="https://skillicons.dev/icons?i=js,react,css,tailwind,bootstrap,sass,firebase,git,vscode,ai,ps" />
+    <img width="50px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/indesign-icon.png" />
   </a>
 
 ### Currently Learning
