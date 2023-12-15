@@ -23,6 +23,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs,postgres,redux,threejs,ts," />
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/indesign-icon.png" />
   </a>
 </p>
 
