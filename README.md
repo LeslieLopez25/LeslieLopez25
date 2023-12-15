@@ -15,7 +15,7 @@
 ### Skills
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,css,tailwind,bootstrap,sass,firebase,git,vscode,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=js,react,css,tailwind,bootstrap,sass,firebase,git,vscode,ai,ps,id" />
   </a>
 
 ### Currently Learning
