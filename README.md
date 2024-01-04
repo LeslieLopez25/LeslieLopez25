@@ -26,7 +26,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs,postgres,redux,threejs,ts," /> 
-    <img width="50px" height="50px" src="[https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png](https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png)" />
+    <img width="50px" height="50px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" />
   </a>
 </p>
 
