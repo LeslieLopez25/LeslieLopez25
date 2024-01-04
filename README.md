@@ -26,12 +26,12 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs,postgres,redux,threejs,ts," />
+    <img width="50px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" />
   </a>
 </p>
 
 <p>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeslieLopez25&theme=holi&layout=compact&langs_count=8&card_width=320" />
-  <img width="50px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" />
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LeslieLopez25&theme=holi-theme)](https://git.io/streak-stats)
