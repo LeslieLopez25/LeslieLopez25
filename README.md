@@ -2,7 +2,7 @@
 
 <h2>React Front-End Developer</h2>
 
-<h3>I'm a passionate React front-end developer. Embarking on a journey to leave a lasting impact in the dynamic tech landscape, I find my greatest joy in the art of coding and project creation, specializing in React. Committed to continuous learning, I'm honing my skills to become a full-stack React developer. Believing in the power of persistence, curiosity, and hard work, I am poised to reach new heights in the ever-evolving world of technology.</h3>
+<h3>I've been teaching myself how to build awesome websites since 2020. I'm all about making user experiences smooth and enjoyable. My toolkit includes JavaScript, CSS, and ReactJS, and I'm also familiar with Tailwind CSS, Bootstrap, Sass, and Firebase. Right now, I'm super focused on becoming a full-stack React developer. I love learning new things and solving problems – it keeps me going!</h3>
 
 <h3>You can check out <a href="https://leslie-lopez.netlify.app/">my portfolio</a>.</h3>
 
