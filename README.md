@@ -12,7 +12,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-### Skills
+### Tech Stack
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,css,tailwind,bootstrap,sass,firebase,git,vscode,ai,ps" />
