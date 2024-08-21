@@ -19,6 +19,7 @@
     <img width="50px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/indesign-icon.png" />
     <img width="50px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" />
     <img src="https://simpleicons.org/icons/githubcopilot.svg" alt="GitHub Copilot" width="40" height="40"/>
+    <img src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
 
   </a>
 
