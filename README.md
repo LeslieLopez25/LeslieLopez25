@@ -15,7 +15,7 @@
 ### Tech Stack
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,css,tailwind,bootstrap,sass,firebase,git,vscode,ai,ps,github-copilot" />
+    <img src="https://skillicons.dev/icons?i=js,react,css,tailwind,bootstrap,sass,firebase,git,vscode,ai,ps" />
     <img width="50px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/indesign-icon.png" />
     <img width="50px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" />
     <img width="50px" height="50px" src="https://static-00.iconduck.com/assets.00/brand-github-copilot-icon-512x443-uynt7dzf.png" />
