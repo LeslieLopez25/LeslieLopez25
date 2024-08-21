@@ -19,7 +19,6 @@
     <img width="50px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/indesign-icon.png" />
     <img width="50px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" />
     <img src="https://simpleicons.org/icons/githubcopilot.svg" alt="GitHub Copilot" width="40" height="40"/>
-    <img src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
 
   </a>
 
@@ -29,6 +28,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=express,nodejs,postgres,redux,threejs,ts,prisma" /> 
     <img width="50px" height="50px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" />
+    <img src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
   </a>
 </p>
 
