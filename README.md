@@ -15,7 +15,7 @@
 ### Tech Stack
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,css,tailwind,bootstrap,sass,firebase,git,vscode,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=js,react,css,tailwind,bootstrap,sass,firebase,git,vscode,ai,ps,express,nodejs,postgres,ts,prisma,mongodb" />
     <img width="50px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/indesign-icon.png" />
     <img width="50px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" />
     <img src="https://simpleicons.org/icons/githubcopilot.svg" alt="GitHub Copilot" width="40" height="40"/>
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nodejs,postgres,redux,threejs,ts,prisma" /> 
+    <img src="https://skillicons.dev/icons?i=redux,threejs" /> 
     <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="Next JS" width="40" height="40"/>
     <img src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
   </a>
