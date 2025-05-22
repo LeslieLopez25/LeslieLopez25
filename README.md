@@ -2,7 +2,7 @@
 
 <h2>React Full Stack Developer</h2>
 
-<h3>I'm all about making user experiences smooth and enjoyable. My toolkit includes JavaScript, CSS, and ReactJS, and I'm also familiar with Tailwind CSS, Bootstrap, Sass, and Firebase. Right now, I'm super focused on becoming a full-stack React developer. I love learning new things and solving problems – it keeps me going!</h3>
+<h3>I'm all about building web apps that are both fun to use and solid under the hood. As a full stack React developer, I work with JavaScript, TypeScript, React, Node.js, and Express — and I enjoy bringing ideas to life from frontend to backend. I also use tools like Tailwind CSS, Sass, and PostgreSQL, and I’m always picking up something new. Learning and solving problems is what keeps me going!</h3>
 
 <h3>You can check out <a href="https://leslie-lopez-anaya.netlify.app/">my portfolio</a>.</h3>
 
