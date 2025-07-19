@@ -12,7 +12,12 @@
 
 ### Social
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leslie-lopez-anaya-1315lcla2125/)
+<h3 align="center">
+  <a href="https://www.linkedin.com/in/leslie-lopez-anaya-1315lcla2125/">
+    <img src="https://img.shields.io/badge/%20LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</h3>
+
 
   <div align="center">
   
