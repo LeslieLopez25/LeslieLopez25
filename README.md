@@ -14,8 +14,6 @@ I'm all about building web apps that are both fun to use and solid under the hoo
   </a>
 </h3>
 
-<br>
-
 ---
 
 <br>
