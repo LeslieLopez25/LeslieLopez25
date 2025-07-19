@@ -13,7 +13,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leslie-lopez-anaya-1315lcla2125/)
+
 </p>
 
 ### Tech Stack
