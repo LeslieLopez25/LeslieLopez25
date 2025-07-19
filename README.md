@@ -11,7 +11,7 @@
     🌐 Check out my portfolio
   </a>
 </h3>
-
+---
 <br>
 
 <h3 align="center">
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/%20LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </h3>
-
+---
 <br>
 
   <div align="center">
