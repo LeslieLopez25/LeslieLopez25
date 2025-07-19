@@ -1,8 +1,10 @@
-<h1>👋 Hi, I'm Leslie.</h1>
+<h1 align="center">👋 Hi, I'm Leslie.</h1>
 
-<h2>React Full Stack Developer</h2>
+<h2 align="center">React Full Stack Developer</h2>
 
-<h2>I'm all about building web apps that are both fun to use and solid under the hood. As a full stack React developer, I work with JavaScript, TypeScript, React, Node.js, and Express — and I enjoy bringing ideas to life from frontend to backend. I also use tools like Tailwind CSS, Sass, and PostgreSQL, and I’m always picking up something new. Learning and solving problems is what keeps me going!</h2>
+<p align="center">
+I'm all about building web apps that are both fun to use and solid under the hood. As a full stack React developer, I work with JavaScript, TypeScript, React, Node.js, and Express — and I enjoy bringing ideas to life from frontend to backend. I also use tools like Tailwind CSS, Sass, and PostgreSQL, and I’m always picking up something new. Learning and solving problems is what keeps me going!
+</p>
 
 <br>
 
@@ -12,27 +14,27 @@
   </a>
 </h3>
 
+<br>
+
 ---
 
 <br>
 
-<h3 align="center">
-  📱 Social
-</h3>
-  
-<h3 align="center">
+<h3 align="center">📱 Social</h3>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/leslie-lopez-anaya-1315lcla2125/">
     <img src="https://img.shields.io/badge/%20LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</h3>
+</p>
+
+<br>
 
 ---
 
 <br>
 
-  <div align="center">
-  
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
 #### 🧩 Frontend  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
@@ -64,15 +66,23 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=plastic&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=plastic&logo=githubcopilot&logoColor=white)
 
-<br><be>
+<br><br>
 
 ---
 
-<p>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeslieLopez25&theme=holi&layout=compact&langs_count=8&card_width=320" />
+<br>
+
+### 📊 Most Used Languages
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeslieLopez25&theme=holi&layout=compact&langs_count=8&card_width=320" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LeslieLopez25&theme=holi-theme)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=LeslieLopez25&theme=holi-theme" />
+  </a>
+</p>
 
 <!---
 LeslieLopez25/LeslieLopez25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
