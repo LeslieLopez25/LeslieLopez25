@@ -1,4 +1,4 @@
-<h1>Hi, I'm Leslie.</h1>
+<h1>👋 Hi, I'm Leslie.</h1>
 
 <h2>React Full Stack Developer</h2>
 
