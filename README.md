@@ -34,7 +34,7 @@
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=plastic&logo=sass&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-111827?style=plastic)
 
----
+<br>
 
 #### 🛠️ Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
@@ -44,7 +44,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white)
 
----
+<br>
 
 #### 🧰 Tools & Other Tech  
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
