@@ -2,7 +2,7 @@
 
 <h2>React Full Stack Developer</h2>
 
-<h3>I'm all about building web apps that are both fun to use and solid under the hood. As a full stack React developer, I work with JavaScript, TypeScript, React, Node.js, and Express — and I enjoy bringing ideas to life from frontend to backend. I also use tools like Tailwind CSS, Sass, and PostgreSQL, and I’m always picking up something new. Learning and solving problems is what keeps me going!</h3>
+<h2>I'm all about building web apps that are both fun to use and solid under the hood. As a full stack React developer, I work with JavaScript, TypeScript, React, Node.js, and Express — and I enjoy bringing ideas to life from frontend to backend. I also use tools like Tailwind CSS, Sass, and PostgreSQL, and I’m always picking up something new. Learning and solving problems is what keeps me going!</h2>
 
 
 <h3 align="center">
