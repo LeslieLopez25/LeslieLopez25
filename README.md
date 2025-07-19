@@ -17,8 +17,6 @@
 <h3 align="center">
   📱 Social
 </h3>
-
-<br>
   
 <h3 align="center">
   <a href="https://www.linkedin.com/in/leslie-lopez-anaya-1315lcla2125/">
@@ -26,6 +24,7 @@
   </a>
 </h3>
 
+<br>
 
   <div align="center">
   
