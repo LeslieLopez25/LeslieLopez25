@@ -22,15 +22,6 @@
     <img src="https://simpleicons.org/icons/githubcopilot.svg" alt="GitHub Copilot" width="40" height="40"/>
   </a>
 
-### Currently Learning
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,threejs" /> 
-    <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="Next JS" width="40" height="40"/>
-  </a>
-</p>
-
 <p>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeslieLopez25&theme=holi&layout=compact&langs_count=8&card_width=320" />
 </p>
