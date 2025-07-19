@@ -26,7 +26,6 @@
 ### 🛠️ Tech Stack
 
 #### 🧩 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
@@ -56,7 +55,7 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=plastic&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=plastic&logo=githubcopilot&logoColor=white)
 
-
+<br>
 
 <p>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeslieLopez25&theme=holi&layout=compact&langs_count=8&card_width=320" />
