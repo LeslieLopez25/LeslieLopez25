@@ -10,9 +10,9 @@
   </a>
 </h3>
 
-<p align="center>
+<h3 align="center">
     ### Social
-</p>
+</h3>
   
 <h3 align="center">
   <a href="https://www.linkedin.com/in/leslie-lopez-anaya-1315lcla2125/">
