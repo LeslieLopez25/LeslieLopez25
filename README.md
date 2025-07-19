@@ -11,7 +11,7 @@
     🌐 Check out my portfolio
   </a>
 </h3>
-<hr>
+---
 <br>
 
 <h3 align="center">
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/%20LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </h3>
-<hr>
+---
 <br>
 
   <div align="center">
@@ -61,7 +61,7 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=plastic&logo=githubcopilot&logoColor=white)
 
 <br><br>
-<hr>
+---
 <p>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeslieLopez25&theme=holi&layout=compact&langs_count=8&card_width=320" />
 </p>
