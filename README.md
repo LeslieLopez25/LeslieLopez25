@@ -64,6 +64,20 @@ I'm all about building web apps that are both fun to use and solid under the hoo
   <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=plastic&logo=githubcopilot&logoColor=white" />
 </p>
 
+---
+
+<h3 align="center">📚 Currently Learning</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Queries-FF4154?style=plastic&logo=react-query&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=plastic&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=plastic&logo=affinityphoto&logoColor=white" />
+  <img src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=plastic&logo=affinitydesigner&logoColor=white" />
+  <img src="https://img.shields.io/badge/Affinity_Publisher-C9284D?style=plastic&logo=affinitypublisher&logoColor=white" />
+</p>
+
 
 <br><br>
 
