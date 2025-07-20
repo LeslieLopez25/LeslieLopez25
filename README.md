@@ -76,6 +76,7 @@ I'm all about building web apps that are both fun to use and solid under the hoo
   <img src="https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=plastic&logo=affinityphoto&logoColor=white" />
   <img src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=plastic&logo=affinitydesigner&logoColor=white" />
   <img src="https://img.shields.io/badge/Affinity_Publisher-C9284D?style=plastic&logo=affinitypublisher&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white" />
 </p>
 
 
