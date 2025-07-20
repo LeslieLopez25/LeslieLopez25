@@ -4,8 +4,6 @@
 
 <h2 align="center">React Full Stack Developer</h2>
 
----
-
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently working on a full stack hotel booking app using Tailwind CSS, TypeScript, the MERN stack, and Stripe  
