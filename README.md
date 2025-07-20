@@ -79,7 +79,7 @@ I'm all about building web apps that are both fun to use and solid under the hoo
 </p>
 
 
-<br><br>
+<br>
 
 ---
 
