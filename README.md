@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I'm Leslie.</h1>
 
+<h4 align="center">💻 Passionate about crafting full stack web experiences with modern tools & great UX.</h4>
+
 <h2 align="center">React Full Stack Developer</h2>
 
 <h3 align="center">
