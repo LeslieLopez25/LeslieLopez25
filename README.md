@@ -4,6 +4,19 @@
 
 <h2 align="center">React Full Stack Developer</h2>
 
+---
+
+### 👩‍💻 About Me
+
+- 🔭 I’m currently working on a full stack hotel booking app using Tailwind CSS, TypeScript, the MERN stack, and Stripe  
+- 🌱 I’m currently learning Python, Three.js, Blender, Playwright, and TanStack — plus exploring Affinity apps and drawing  
+- 🎨 I also love digital art, UI/UX design, and I’m learning to draw as part of my creative journey  
+- ⚡ Fun fact: I'm always exploring new tools to make my projects more polished and user-friendly  
+
+---
+
+<br>
+
 <h3 align="center">
 I'm all about building web apps that are both fun to use and solid under the hood. As a full stack React developer, I work with JavaScript, TypeScript, React, Node.js, and Express — and I enjoy bringing ideas to life from frontend to backend. I also use tools like Tailwind CSS, Sass, and PostgreSQL, and I’m always picking up something new. Learning and solving problems is what keeps me going!
 </h3>
