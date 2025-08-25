@@ -16,7 +16,7 @@
 <br>
 
 <h3 align="center">
-I'm all about building web apps that are both fun to use and solid under the hood. As a full stack React developer, I work with JavaScript, TypeScript, React, Node.js, and Express — and I enjoy bringing ideas to life from frontend to backend. I also use tools like Tailwind CSS, Sass, and PostgreSQL, and I’m always picking up something new. Learning and solving problems is what keeps me going!
+I'm all about building web apps that are both fun to use and solid under the hood. As a full stack React developer, I work with JavaScript, React, Playwright, Node.js, and Express — and I enjoy bringing ideas to life from frontend to backend. I also use tools like Tailwind CSS, Shadcn, PostgreSQL, MongoDB, and I’m always picking up something new. Learning and solving problems is what keeps me going!
 </h3>
 
 <br>
