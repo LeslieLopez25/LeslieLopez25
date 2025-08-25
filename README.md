@@ -6,7 +6,7 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I’m currently working on a full stack hotel booking app using Tailwind CSS, TypeScript, the MERN stack, and Stripe  
+- 🔭 I’m just finished creating a full stack hotel booking app using Tailwind CSS, TypeScript, the MERN stack, and Stripe  
 - 🌱 I’m currently learning Python, Three.js, Blender, and TanStack — plus exploring Affinity apps and drawing  
 - 🎨 I also love digital art, UI/UX design, and I’m learning to draw as part of my creative journey  
 - ⚡ Fun fact: I'm always exploring new tools to make my projects more polished and user-friendly  
