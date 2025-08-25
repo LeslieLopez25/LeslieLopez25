@@ -7,7 +7,7 @@
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently working on a full stack hotel booking app using Tailwind CSS, TypeScript, the MERN stack, and Stripe  
-- 🌱 I’m currently learning Python, Three.js, Blender, Playwright, and TanStack — plus exploring Affinity apps and drawing  
+- 🌱 I’m currently learning Python, Three.js, Blender, and TanStack — plus exploring Affinity apps and drawing  
 - 🎨 I also love digital art, UI/UX design, and I’m learning to draw as part of my creative journey  
 - ⚡ Fun fact: I'm always exploring new tools to make my projects more polished and user-friendly  
 
@@ -52,6 +52,7 @@ I'm all about building web apps that are both fun to use and solid under the hoo
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=plastic&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Shadcn_UI-111827?style=plastic" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white" />
 </p>
 
 <p align="center"><b>🛠️ Backend</b></p>
@@ -89,7 +90,6 @@ I'm all about building web apps that are both fun to use and solid under the hoo
   <img src="https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=plastic&logo=affinityphoto&logoColor=white" />
   <img src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=plastic&logo=affinitydesigner&logoColor=white" />
   <img src="https://img.shields.io/badge/Affinity_Publisher-C9284D?style=plastic&logo=affinitypublisher&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white" />
 </p>
 
 
