@@ -7,7 +7,7 @@
 ### 👩‍💻 About Me
 
 - 🔭 I'm currently working on adding Playwright to my mern food ordering app.
-- 🌱 I’m currently learning Python, Three.js, Blender, and TanStack — plus exploring Affinity apps and drawing  
+- 🌱 I’m currently learning Python, Three.js, Blender, and TanStack, TypeScript — plus exploring Affinity apps and drawing  
 - 🎨 I also love digital art, UI/UX design, and I’m learning to draw as part of my creative journey  
 - ⚡ Fun fact: I'm always exploring new tools to make my projects more polished and user-friendly  
 
@@ -47,7 +47,6 @@ I'm all about building web apps that are both fun to use and solid under the hoo
 <p align="center">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=plastic&logo=sass&logoColor=white" />
@@ -83,6 +82,7 @@ I'm all about building web apps that are both fun to use and solid under the hoo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TanStack_Queries-FF4154?style=plastic&logo=react-query&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=plastic&logo=blender&logoColor=white" />
