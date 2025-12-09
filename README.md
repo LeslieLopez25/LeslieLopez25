@@ -25,8 +25,6 @@ I'm all about building web apps that are both fun to use and solid under the hoo
   </a>
 </h3>
 
----
-
 <h3 align="center">📱 Social</h3>
 
 <p align="center">
@@ -34,9 +32,6 @@ I'm all about building web apps that are both fun to use and solid under the hoo
     <img src="https://img.shields.io/badge/%20LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
-
----
-
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
@@ -74,8 +69,6 @@ I'm all about building web apps that are both fun to use and solid under the hoo
   <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=plastic&logo=githubcopilot&logoColor=white" />
 </p>
 
----
-
 <h3 align="center">📚 Currently Learning</h3>
 
 <p align="center">
@@ -89,10 +82,7 @@ I'm all about building web apps that are both fun to use and solid under the hoo
   <img src="https://img.shields.io/badge/Affinity_Publisher-C9284D?style=plastic&logo=affinitypublisher&logoColor=white" />
 </p>
 
-
 <br>
-
----
 
 <br>
 
