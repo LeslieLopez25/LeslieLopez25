@@ -4,9 +4,9 @@
 
 <h2 align="center">React Full Stack Developer</h2>
 
-### 👩‍💻 About Me
+###  About Me
 
-- 🔭 I'm currently working on adding Playwright to my mern food ordering app.
+- 🔭 I'm currently working on adding Playwright to my MERN food ordering app.
 - 🌱 I’m currently learning Python, Three.js, Blender, and TanStack, TypeScript — plus exploring Affinity apps and drawing  
 - 🎨 I also love digital art, UI/UX design, and I’m learning to draw as part of my creative journey  
 - ⚡ Fun fact: I'm always exploring new tools to make my projects more polished and user-friendly  
@@ -92,7 +92,7 @@ I'm all about building web apps that are both fun to use and solid under the hoo
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeslieLopez25&theme=holi&layout=compact&langs_count=8&card_width=320" />
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
