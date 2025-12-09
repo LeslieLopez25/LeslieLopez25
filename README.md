@@ -84,10 +84,9 @@ I'm all about building web apps that are both fun to use and solid under the hoo
 
 <br>
 
-<be>
+<br>
+
 ### Github Stats
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeslieLopez25)](https://github.com/LeslieLopez25/github-readme-stats)
 
 <p align="center">
   <a href="https://git.io/streak-stats">
