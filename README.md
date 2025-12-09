@@ -86,8 +86,7 @@ I'm all about building web apps that are both fun to use and solid under the hoo
 
 <br>
 
-### Github Stats
-
+<h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=LeslieLopez25&theme=holi-theme" />
