@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Leslie.</h1>
+<h1 align="center"> Hi, I'm Leslie.</h1>
 
 <h4 align="center">💻 Passionate about crafting full stack web experiences with modern tools & great UX.</h4>
 
@@ -88,9 +88,7 @@ I'm all about building web apps that are both fun to use and solid under the hoo
 
 ### 📊 Most Used Languages
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeslieLopez25&theme=holi&layout=compact&langs_count=8&card_width=320" />
-</p>
+
 
 <br>
 
