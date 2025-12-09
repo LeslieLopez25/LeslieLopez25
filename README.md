@@ -87,7 +87,7 @@ I'm all about building web apps that are both fun to use and solid under the hoo
 <br>
 
 ### 📊 Most Used Languages
-[![Leslie Lopez's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeslieLopez25)](https://github.com/anuraghazra/github-readme-stats)
+[![Leslie Lopez's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeslieLopez25&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
