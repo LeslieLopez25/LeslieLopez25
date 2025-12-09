@@ -87,8 +87,9 @@ I'm all about building web apps that are both fun to use and solid under the hoo
 <br>
 
 ### 📊 Most Used Languages
-
-
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeslieLopez25&theme=holi&layout=compact&langs_count=8&card_width=320" />
+</p>
 
 <br>
 
