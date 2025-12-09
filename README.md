@@ -89,7 +89,7 @@ I'm all about building web apps that are both fun to use and solid under the hoo
 <h3 align="center">Github Stats</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=LeslieLopez25&theme=blue-green" />
+    <img src="https://streak-stats.demolab.com/?user=LeslieLopez25&theme=holi-theme" />
   </a>
 </p>
 
