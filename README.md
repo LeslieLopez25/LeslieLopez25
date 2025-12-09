@@ -87,9 +87,8 @@ I'm all about building web apps that are both fun to use and solid under the hoo
 <br>
 
 <h3 align="center">Github Stats</h3>
-<p align="center">
-  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LeslieLopez25&theme=python-dark" alt="GitHub Streak" /></a></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=LeslieLopez25&theme=python-dark)](https://git.io/streak-stats)
 
 <!---
 LeslieLopez25/LeslieLopez25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
