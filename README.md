@@ -82,11 +82,12 @@ I'm all about building web apps that are both fun to use and solid under the hoo
   <img src="https://img.shields.io/badge/Affinity_Publisher-C9284D?style=plastic&logo=affinitypublisher&logoColor=white" />
 </p>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/PostgreSQL-0A0F1F?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/MongoDB-0F2D1C?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Prisma-1A1A1A?style=for-the-badge&logo=prisma&logoColor=00E1FF" />
+
 
 
 <br>
