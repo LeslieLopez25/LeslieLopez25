@@ -62,13 +62,13 @@ I'm all about building web apps that are both fun to use and solid under the hoo
 <p align="center"><b>🧰 Tools & Other Tech</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=plastic&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=plastic&logo=adobe-illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/InDesign-FF3366?style=plastic&logo=adobe-indesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=plastic&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=plastic&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=000000" />
 </p>
 
 <h3 align="center">📚 Currently Learning</h3>
