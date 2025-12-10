@@ -84,7 +84,9 @@ I'm all about building web apps that are both fun to use and solid under the hoo
  <img src="https://img.shields.io/badge/Affinity_Publisher-C9284D?style=for-the-badge&logo=affinitypublisher&logoColor=white&labelColor=000000" />
 </p>
 
-<br>
+<be>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LeslieLopez25&theme=dark)](https://git.io/streak-stats)
 
 <br>
 
