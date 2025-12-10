@@ -29,7 +29,7 @@ I'm all about building web apps that are both fun to use and solid under the hoo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leslie-lopez-anaya-1315lcla2125/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="100"
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" 
 />
 
   </a>
@@ -40,13 +40,13 @@ I'm all about building web apps that are both fun to use and solid under the hoo
 <p align="center"><b>🧩 Frontend</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=plastic&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn_UI-111827?style=plastic" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Shadcn_UI-111827?style=for-the-badge&labelColor=000000&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white&labelColor=000000" />
 </p>
 
 <p align="center"><b>🛠️ Backend</b></p>
