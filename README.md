@@ -84,7 +84,13 @@ I'm all about building web apps that are both fun to use and solid under the hoo
  <img src="https://img.shields.io/badge/Affinity_Publisher-C9284D?style=for-the-badge&logo=affinitypublisher&logoColor=white&labelColor=000000" />
 </p>
 
-<br>
+<be>
+
+<p align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=LeslieLopez25&theme=blue-green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</p>
 
 <!---
 LeslieLopez25/LeslieLopez25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
