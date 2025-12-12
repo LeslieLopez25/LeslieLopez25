@@ -82,6 +82,9 @@ I'm all about building web apps that are both fun to use and solid under the hoo
  <img src="https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=for-the-badge&logo=affinityphoto&logoColor=white&labelColor=000000" />
  <img src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=for-the-badge&logo=affinitydesigner&logoColor=white&labelColor=000000" />
  <img src="https://img.shields.io/badge/Affinity_Publisher-C9284D?style=for-the-badge&logo=affinitypublisher&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black&labelColor=000000" />
 </p>
 
 <!---
