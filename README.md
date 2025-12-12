@@ -48,6 +48,7 @@ I'm all about building web apps that are both fun to use and solid under the hoo
 <img src="https://img.shields.io/badge/Shadcn_UI-111827?style=for-the-badge&labelColor=000000&logoColor=white" />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E&labelColor=000000" />
 </p>
 
 <p align="center"><b>🛠️ Backend</b></p>
@@ -84,7 +85,7 @@ I'm all about building web apps that are both fun to use and solid under the hoo
  <img src="https://img.shields.io/badge/Affinity_Publisher-C9284D?style=for-the-badge&logo=affinitypublisher&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white&labelColor=000000" />
 </p>
 
 <!---
