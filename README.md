@@ -20,7 +20,7 @@ I'm all about building web apps that are both fun to use and solid under the hoo
 <br>
 
 <h3 align="center">
-  <a href="https://leslie-lopez-anaya.netlify.app/" target="_blank">
+  <a href="https://leslie-lopez-anaya.onrender.com/" target="_blank">
     🌐 Check out my portfolio
   </a>
 </h3>
