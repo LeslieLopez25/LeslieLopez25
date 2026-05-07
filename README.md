@@ -6,10 +6,9 @@
 
 ###  About Me
 
-- 🔭 I'm currently working on creating a full-stack blog website using React.js (Vite) for frontend and MERN stack for backend
-- 🌱 I’m currently learning Python, Three.js, Blender, and TanStack — plus exploring Affinity apps and drawing  
-- 🎨 I also love digital art, UI/UX design, and I’m learning to draw as part of my creative journey  
-- ⚡ Fun fact: I'm always exploring new tools to make my projects more polished and user-friendly  
+- 🔭 I'm currently working on creating a full-stack personal project tracker app using React.js (Vite) with the backend having just been completed and moving on to the frontend
+- 🎨 I also love digital art and I’m learning to draw and use Blender as part of my creative journey  
+- ⚡ I'm always exploring new tools to make my projects more polished and user-friendly  
 
 <br>
 
