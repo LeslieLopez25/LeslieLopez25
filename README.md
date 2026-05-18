@@ -77,7 +77,6 @@ I'm all about building web apps that are both fun to use and solid under the hoo
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=000000" />
- <img src="https://img.shields.io/badge/TanStack_Queries-FF4154?style=for-the-badge&logo=react-query&logoColor=white&labelColor=000000" />
  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=000000" />
  <img src="https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=for-the-badge&logo=affinityphoto&logoColor=white&labelColor=000000" />
  <img src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=for-the-badge&logo=affinitydesigner&logoColor=white&labelColor=000000" />
